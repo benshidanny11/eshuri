@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>656972122227-6a0v0tf4qb3r194sn844jptg5gacs33k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.656972122227-6a0v0tf4qb3r194sn844jptg5gacs33k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>656972122227-oprm2hvdcjgocoevq6rvr48u30doukvh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDzVVBdXfJz8O8fyCJy7c4WPDMB8MdVKiM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>656972122227</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.erangaapp</string>
+	<key>PROJECT_ID</key>
+	<string>erangaapp-8beda</string>
+	<key>STORAGE_BUCKET</key>
+	<string>erangaapp-8beda.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:656972122227:ios:be80bdf6467bd6c1e84206</string>
+</dict>
+</plist>
